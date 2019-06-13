@@ -1,6 +1,7 @@
-# Navigoat
+# NavigoRead
 
 ## Description
+**THIS PROJECT IS A FORK OF https://github.com/sp1d3rb0y/Navigoat**
 
 Android PoC for reading the new french transportation card "Navigo" with any Android equiped with a NFC reader.
 
@@ -10,7 +11,8 @@ This PoC will only work with the new Navigo models "Designed by Stark".
 
 Credit where it's due: https://github.com/Eric-Bourry/pssi
 
-Play Store: https://play.google.com/store/apps/details?id=fr.spiderboy.navigoat
+You can download and install this app with Aptoide, I will give you link when I upload it.
+Also you can download the APK file on my website !
 
 ## Permissions
 
