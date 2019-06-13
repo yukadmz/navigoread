@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stations>
+    <station type="metro" code="01-01" name="SAINT-MICHEL" />
+    <station type="metro" code="01-04" name="ODEON" />
+    <station type="metro" code="01-05" name="CLUNY-LA-SORBONNE" />
+    <station type="metro" code="01-06" name="MAUBERT-MUTUALITE" />
+    <station type="metro" code="01-07" name="LUXEMBOURG" />
+    <station type="metro" code="01-08" name="CHATELET" />
+    <station type="metro" code="01-09" name="HALLES (LES)" />
+    <station type="metro" code="01-10" name="Châtelet - Les Halles RER A (Ligne de contrôle séparant le RER et le métro et entrées et sorties  de la station)" />
+    <station type="metro" code="01-11" name="Châtelet - Les Halles RER A (Ligne de contrôle séparant le RER et le métro)" />
+    <station type="metro" code="01-12" name="LOUVRE" />
+    <station type="metro" code="01-13" name="PONT NEUF" />
+    <station type="metro" code="01-14" name="CITE" />
+    <station type="metro" code="01-15" name="HOTEL DE VILLE" />
+    <station type="metro" code="02-02" name="CAMBRONNE" />
+    <station type="metro" code="02-03" name="SEVRES-LECOURBE" />
+    <station type="metro" code="02-04" name="SEGUR" />
+    <station type="metro" code="02-06" name="SAINT-FRANCOIS-XAVIER" />
+    <station type="metro" code="02-07" name="DUROC" />
+    <station type="metro" code="02-08" name="VANEAU" />
+    <station type="metro" code="02-09" name="SEVRES-BABYLONE" />
+    <station type="metro" code="02-10" name="RUE DU BAC" />
+    <station type="metro" code="02-11" name="RENNES" />
+    <station type="metro" code="02-12" name="SAINT-SULPICE" />
+    <station type="metro" code="02-14" name="MABILLON" />
+    <station type="metro" code="02-15" name="SAINT-GERMAIN-DES-PRES" />
+    <station type="metro" code="03-00" name="ST-MICHEL-NOTRE-DAME - c. RER B/métro (Ligne 10)" />
+    <station type="metro" code="03-01" name="ST-MICHEL-NOTRE-DAME - c. métro/RER B (Ligne 10) et entrée normale" />
+    <station type="metro" code="03-04" name="PORTE DE LA VILLETTE" />
+    <station type="metro" code="03-05" name="AUBERVILLIERS-PANTIN-4 CHEMINS" />
+    <station type="metro" code="03-06" name="FORT D'AUBERVILLIERS" />
+    <station type="metro" code="03-07" name="COURNEUVE - 8" />
+    <station type="metro" code="03-09" name="HOCHE" />
+    <station type="metro" code="03-10" name="EGLISE DE PANTIN" />
+    <station type="metro" code="03-11" name="BOBIGNY-PANTIN-RAYMOND QUENEAU" />
+    <station type="metro" code="03-12" name="BOBIGNY-PABLO PICASSO" />
+    <station type="metro" code="04-02" name="PERNETY" />
+    <station type="metro" code="04-03" name="PLAISANCE" />
+    <station type="metro" code="04-04" name="GAITE" />
+    <station type="metro" code="04-06" name="EDGAR QUINET" />
+    <station type="metro" code="04-07" name="VAVIN" />
+    <station type="metro" code="04-08" name="MONTPARNASSE-BIENVENUE" />
+    <station type="metro" code="04-12" name="SAINT-PLACIDE" />
+    <station type="metro" code="04-14" name="NOTRE-DAME-DES-CHAMPS" />
+    <station type="metro" code="05-02" name="ROBESPIERRE" />
+    <station type="metro" code="05-03" name="PORTE DE MONTREUIL" />
+    <station type="metro" code="05-04" name="MARAICHERS" />
+    <station type="metro" code="05-05" name="BUZENVAL" />
+    <station type="metro" code="05-06" name="RUE DES BOULETS" />
+    <station type="metro" code="05-07" name="PORTE DE VINCENNES" />
+    <station type="metro" code="05-09" name="PICPUS" />
+    <station type="metro" code="05-10" name="NATION (métro)" />
+    <station type="metro" code="05-12" name="AVRON" />
+    <station type="metro" code="05-13" name="ALEXANDRE DUMAS" />
+    <station type="metro" code="06-01" name="MALESHERBES" />
+    <station type="metro" code="06-02" name="MONCEAU" />
+    <station type="metro" code="06-03" name="VILLIERS" />
+    <station type="metro" code="06-04" name="QUATRE SEPTEMBRE" />
+    <station type="metro" code="06-05" name="OPERA" />
+    <station type="metro" code="06-06" name="AUBER" />
+    <station type="metro" code="06-07" name="HAVRE-CAUMARTIN" />
+    <station type="metro" code="06-08" name="SAINT-LAZARE" />
+    <station type="metro" code="06-09" name="SAINT-LAZARE" />
+    <station type="metro" code="06-10" name="SAINT-AUGUSTIN" />
+    <station type="metro" code="06-12" name="EUROPE" />
+    <station type="metro" code="06-13" name="LIEGE" />
+    <station type="metro" code="07-03" name="PORTE DE SAINT-CLOUD" />
+    <station type="metro" code="07-07" name="PORTE D'AUTEUIL" />
+    <station type="metro" code="07-08" name="EGLISE D'AUTEUIL" />
+    <station type="metro" code="07-09" name="MICHEL-ANGE-AUTEUIL" />
+    <station type="metro" code="07-10" name="MICHEL-ANGE-MOLITOR" />
+    <station type="metro" code="07-11" name="CHARDON-LAGACHE" />
+    <station type="metro" code="07-12" name="MIRABEAU" />
+    <station type="metro" code="07-14" name="EXELMANS" />
+    <station type="metro" code="07-15" name="JASMIN" />
+    <station type="metro" code="08-01" name="RAMBUTEAU" />
+    <station type="metro" code="08-03" name="ARTS ET METIERS" />
+    <station type="metro" code="08-04" name="JACQUES BONSERGENT" />
+    <station type="metro" code="08-05" name="GONCOURT" />
+    <station type="metro" code="08-06" name="TEMPLE" />
+    <station type="metro" code="08-07" name="REPUBLIQUE" />
+    <station type="metro" code="08-10" name="OBERKAMPF" />
+    <station type="metro" code="08-11" name="PARMENTIER" />
+    <station type="metro" code="08-12" name="FILLES DU CALVAIRE" />
+    <station type="metro" code="08-13" name="SAINT-SEBASTIEN-FROISSART" />
+    <station type="metro" code="08-14" name="RICHARD-LENOIR" />
+    <station type="metro" code="08-15" name="SAINT-AMBROISE" />
+    <station type="metro" code="09-01" name="QUAI DE LA GARE" />
+    <station type="metro" code="09-02" name="CHEVALERET" />
+    <station type="metro" code="09-04" name="SAINT-MARCEL" />
+    <station type="metro" code="09-07" name="GARE D'AUSTERLITZ" />
+    <station type="metro" code="09-08" name="GARE DE LYON Métro L. 1" />
+    <station type="metro" code="09-10" name="QUAI DE LA RAPEE" />
+    <station type="metro" code="09-13" name="GARE DE LYON - entrée et sortie RER A et correspondances" />
+    <station type="metro" code="09-14" name="GARE DE LYON Métro L. 14 et RER A correspondance RER/métro" />
+    <station type="metro" code="10-01" name="CHAMPS-ELYSEES-CLEMENCEAU" />
+    <station type="metro" code="10-02" name="CONCORDE" />
+    <station type="metro" code="10-03" name="MADELEINE" />
+    <station type="metro" code="10-04" name="BIR-HAKEIM" />
+    <station type="metro" code="10-07" name="ECOLE MILITAIRE" />
+    <station type="metro" code="10-08" name="TOUR MAUBOURG" />
+    <station type="metro" code="10-09" name="INVALIDES métro" />
+    <station type="metro" code="10-10" name="INVALIDES – correspondance Métro/RER C" />
+    <station type="metro" code="10-11" name="INVALIDES – correspondance RER/Métro C" />
+    <station type="metro" code="10-11" name="SAINT-DENIS UNIVERSITE" />
+    <station type="metro" code="10-12" name="VARENNE" />
+    <station type="metro" code="10-13" name="ASSEMBLEE NATIONALE" />
+    <station type="metro" code="10-14" name="SOLFERINO" />
+    <station type="metro" code="11-01" name="TUILERIES" />
+    <station type="metro" code="11-02" name="PALAIS-ROYAL-MUSEE DU LOUVRE" />
+    <station type="metro" code="11-03" name="PYRAMIDES" />
+    <station type="metro" code="11-04" name="BOURSE" />
+    <station type="metro" code="11-06" name="GRANDS BOULEVARDS" />
+    <station type="metro" code="11-07" name="RICHELIEU-DROUOT" />
+    <station type="metro" code="11-08" name="BONNE NOUVELLE" />
+    <station type="metro" code="11-10" name="STRASBOURG-SAINT-DENIS" />
+    <station type="metro" code="11-11" name="CHATEAU D'EAU" />
+    <station type="metro" code="11-13" name="SENTIER" />
+    <station type="metro" code="11-14" name="REAUMUR-SEBASTOPOL" />
+    <station type="metro" code="11-15" name="ETIENNE MARCEL" />
+    <station type="metro" code="12-01" name="FAIDHERBE-CHALIGNY" />
+    <station type="metro" code="12-02" name="REUILLY-DIDEROT" />
+    <station type="metro" code="12-03" name="MONTGALLET" />
+    <station type="metro" code="12-04" name="CENSIER-DAUBENTON" />
+    <station type="metro" code="12-05" name="PLACE MONGE" />
+    <station type="metro" code="12-06" name="CARDINAL LEMOINE" />
+    <station type="metro" code="12-07" name="JUSSIEU" />
+    <station type="metro" code="12-08" name="SULLY-MORLAND" />
+    <station type="metro" code="12-09" name="PONT MARIE" />
+    <station type="metro" code="12-10" name="SAINT-PAUL" />
+    <station type="metro" code="12-12" name="BASTILLE" />
+    <station type="metro" code="12-13" name="CHEMIN VERT" />
+    <station type="metro" code="12-14" name="BREGUET-SABIN" />
+    <station type="metro" code="12-15" name="LEDRU-ROLLIN" />
+    <station type="metro" code="13-01" name="PORTE DOREE" />
+    <station type="metro" code="13-03" name="PORTE DE CHARENTON" />
+    <station type="metro" code="13-07" name="BERCY" />
+    <station type="metro" code="13-08" name="DUGOMMIER" />
+    <station type="metro" code="13-10" name="MICHEL BIZOT" />
+    <station type="metro" code="13-11" name="DAUMESNIL" />
+    <station type="metro" code="13-12" name="BEL-AIR" />
+    <station type="metro" code="14-02" name="PORTE DE CHOISY" />
+    <station type="metro" code="14-03" name="PORTE D'ITALIE" />
+    <station type="metro" code="14-04" name="CITE UNIVERSITAIRE" />
+    <station type="metro" code="14-09" name="MAISON BLANCHE" />
+    <station type="metro" code="14-10" name="TOLBIAC" />
+    <station type="metro" code="14-11" name="NATIONALE" />
+    <station type="metro" code="14-12" name="CAMPO-FORMIO" />
+    <station type="metro" code="14-13" name="GOBELINS (LES)" />
+    <station type="metro" code="14-14" name="PLACE D'ITALIE" />
+    <station type="metro" code="14-15" name="CORVISART" />
+    <station type="metro" code="15-01" name="COUR SAINT EMILION" />
+    <station type="metro" code="15-02" name="PORTE D'ORLEANS" />
+    <station type="metro" code="15-03" name="BIBLIOTHEQUE FRANCOIS MITTERRAND" />
+    <station type="metro" code="15-04" name="MOUTON-DUVERNET" />
+    <station type="metro" code="15-05" name="ALESIA" />
+    <station type="metro" code="15-06" name="OLYMPIADES" />
+    <station type="metro" code="15-08" name="GLACIERE" />
+    <station type="metro" code="15-09" name="SAINT-JACQUES" />
+    <station type="metro" code="15-10" name="RASPAIL" />
+    <station type="metro" code="15-12" name="PORT ROYAL" />
+    <station type="metro" code="15-13" name="DENFERT-ROCHEREAU RER B correspondance métro-RER et entrée/sortie normale" />
+    <station type="metro" code="15-14" name="DENFERT-ROCHEREAU métro" />
+    <station type="metro" code="15-15" name="Denfert Rochereau RER B correspondance métro/RER" />
+    <station type="metro" code="16-01" name="FALGUIERE" />
+    <station type="metro" code="16-02" name="PASTEUR" />
+    <station type="metro" code="16-03" name="VOLONTAIRES" />
+    <station type="metro" code="16-04" name="VAUGIRARD" />
+    <station type="metro" code="16-05" name="CONVENTION" />
+    <station type="metro" code="16-06" name="PORTE DE VERSAILLES" />
+    <station type="metro" code="16-09" name="BALARD" />
+    <station type="metro" code="16-10" name="LOURMEL" />
+    <station type="metro" code="16-11" name="BOUCICAUT" />
+    <station type="metro" code="16-12" name="FELIX" />
+    <station type="metro" code="16-13" name="CHARLES MICHELS" />
+    <station type="metro" code="16-14" name="JAVEL-ANDRE CITROEN" />
+    <station type="metro" code="17-01" name="Charles de Gaulle - Etoile RER" />
+    <station type="metro" code="17-02" name="PORTE DAUPHINE" />
+    <station type="metro" code="17-04" name="MOTTE-PICQUET-GRENELLE (LA)" />
+    <station type="metro" code="17-05" name="COMMERCE" />
+    <station type="metro" code="17-06" name="AVENUE EMILE ZOLA" />
+    <station type="metro" code="17-07" name="DUPLEIX" />
+    <station type="metro" code="17-08" name="PASSY" />
+    <station type="metro" code="17-09" name="RANELAGH" />
+    <station type="metro" code="17-11" name="MUETTE (LA)" />
+    <station type="metro" code="17-13" name="RUE" />
+    <station type="metro" code="17-14" name="BOISSIERE" />
+    <station type="metro" code="17-15" name="TROCADERO" />
+    <station type="metro" code="18-01" name="IENA" />
+    <station type="metro" code="18-03" name="ALMA-MARCEAU" />
+    <station type="metro" code="18-04" name="MIROMESNIL" />
+    <station type="metro" code="18-05" name="SAINT-PHILIPPE-DU-ROULE" />
+    <station type="metro" code="18-07" name="FRANKLIN-D-ROOSEVELT" />
+    <station type="metro" code="18-08" name="GEORGE V" />
+    <station type="metro" code="18-09" name="KLEBER" />
+    <station type="metro" code="18-10" name="VICTOR HUGO" />
+    <station type="metro" code="18-11" name="ARGENTINE" />
+    <station type="metro" code="18-12" name="CHARLES DE GAULLE-ETOILE" />
+    <station type="metro" code="18-14" name="TERNES" />
+    <station type="metro" code="18-15" name="COURCELLES" />
+    <station type="metro" code="19-01" name="MAIRIE DE CLICHY" />
+    <station type="metro" code="19-02" name="ASNIERES GENNEVILLIERS GABRIEL PERI" />
+    <station type="metro" code="19-03" name="ASNIERES GENNEVILLIERS LES AGNETTES" />
+    <station type="metro" code="19-04" name="ASNIERES GENNEVILLIERS LES COURTILLES" />
+    <station type="metro" code="19-09" name="GARE DU NORD (Accès par La Chapelle) entrée/sortie" />
+    <station type="metro" code="19-10" name="GARIBALDI" />
+    <station type="metro" code="19-11" name="MAIRIE DE SAINT-OUEN" />
+    <station type="metro" code="19-13" name="CARREFOUR PLEYEL" />
+    <station type="metro" code="19-14" name="SAINT-DENIS PORTE DE PARIS" />
+    <station type="metro" code="19-15" name="SAINT-DENIS-BASILIQUE" />
+    <station type="metro" code="20-01" name="PORTE DE CLIGNANCOURT" />
+    <station type="metro" code="20-06" name="PORTE DE LA CHAPELLE" />
+    <station type="metro" code="20-07" name="MAX DORMOY" />
+    <station type="metro" code="20-09" name="MARCADET-POISSONNIERS" />
+    <station type="metro" code="20-10" name="SIMPLON" />
+    <station type="metro" code="20-11" name="JULES JOFFRIN" />
+    <station type="metro" code="20-12" name="LAMARCK-CAULAINCOURT" />
+    <station type="metro" code="21-01" name="CHAUSSEE D'ANTIN" />
+    <station type="metro" code="21-02" name="PELETIER (LE)" />
+    <station type="metro" code="21-03" name="CADET" />
+    <station type="metro" code="21-04" name="CHATEAU-ROUGE" />
+    <station type="metro" code="21-07" name="BARBES-ROCHECHOUART" />
+    <station type="metro" code="21-08" name="GARE DU NORD" />
+    <station type="metro" code="21-09" name="GARE DE L'EST" />
+    <station type="metro" code="21-10" name="POISSONNIERE" />
+    <station type="metro" code="21-11" name="CHATEAU-LANDON" />
+    <station type="metro" code="22-01" name="PORTE DE PANTIN" />
+    <station type="metro" code="22-02" name="OURCQ" />
+    <station type="metro" code="22-04" name="CORENTIN CARIOU" />
+    <station type="metro" code="22-06" name="CRIMEE" />
+    <station type="metro" code="22-08" name="RIQUET" />
+    <station type="metro" code="22-10" name="LOUIS BLANC" />
+    <station type="metro" code="22-11" name="STALINGRAD" />
+    <station type="metro" code="22-12" name="JAURES" />
+    <station type="metro" code="22-13" name="LAUMIERE" />
+    <station type="metro" code="22-14" name="BOLIVAR" />
+    <station type="metro" code="22-15" name="COLONEL FABIEN" />
+    <station type="metro" code="23-02" name="PORTE DES LILAS" />
+    <station type="metro" code="23-03" name="MAIRIE DES LILAS" />
+    <station type="metro" code="23-04" name="PORTE DE BAGNOLET" />
+    <station type="metro" code="23-05" name="GALLIENI" />
+    <station type="metro" code="23-08" name="PLACE DES FETES" />
+    <station type="metro" code="23-09" name="BOTZARIS" />
+    <station type="metro" code="23-10" name="DANUBE" />
+    <station type="metro" code="23-11" name="PRE-SAINT-GERVAIS" />
+    <station type="metro" code="23-13" name="BUTTES-CHAUMONT" />
+    <station type="metro" code="23-14" name="JOURDAIN" />
+    <station type="metro" code="23-15" name="TELEGRAPHE" />
+    <station type="metro" code="24-01" name="VOLTAIRE" />
+    <station type="metro" code="24-02" name="CHARONNE" />
+    <station type="metro" code="24-04" name="PERE-LACHAISE" />
+    <station type="metro" code="24-05" name="MENILMONTANT" />
+    <station type="metro" code="24-06" name="SAINT-MAUR" />
+    <station type="metro" code="24-07" name="PHILIPPE-AUGUSTE" />
+    <station type="metro" code="24-08" name="SAINT-FARGEAU" />
+    <station type="metro" code="24-09" name="PELLEPORT" />
+    <station type="metro" code="24-10" name="GAMBETTA" />
+    <station type="metro" code="24-12" name="BELLEVILLE" />
+    <station type="metro" code="24-13" name="COURONNES" />
+    <station type="metro" code="24-14" name="PYRENEES" />
+    <station type="metro" code="25-02" name="CROIX DE CHAVAUX" />
+    <station type="metro" code="25-03" name="MAIRIE DE MONTREUIL" />
+    <station type="metro" code="25-04" name="MAISONS-ALFORT-LES JUILLIOTTES" />
+    <station type="metro" code="25-05" name="CRETEIL-L'ECHAT" />
+    <station type="metro" code="25-06" name="CRETEIL-UNIVERSITE" />
+    <station type="metro" code="25-07" name="CRETEIL-PREFECTURE" />
+    <station type="metro" code="25-08" name="SAINT-MANDE-TOURELLE" />
+    <station type="metro" code="25-10" name="BERAULT" />
+    <station type="metro" code="25-11" name="CHATEAU DE VINCENNES" />
+    <station type="metro" code="25-12" name="LIBERTE" />
+    <station type="metro" code="25-13" name="CHARENTON-ECOLES" />
+    <station type="metro" code="25-14" name="ECOLE VETERINAIRE DE MAISONS ALFORT" />
+    <station type="metro" code="25-15" name="MAISONS-ALFORT-STADE" />
+    <station type="metro" code="26-03" name="PORTE D'IVRY" />
+    <station type="metro" code="26-04" name="PIERRE ET MARIE CURIE" />
+    <station type="metro" code="26-05" name="MAIRIE D'IVRY" />
+    <station type="metro" code="26-06" name="KREMLIN-BICETRE (LE)" />
+    <station type="metro" code="26-07" name="VILLEJUIF-LEO LAGRANGE" />
+    <station type="metro" code="26-08" name="VILLEJUIF-P.VAILLANT COUTURIER" />
+    <station type="metro" code="26-09" name="VILLEJUIF-LOUIS ARAGON" />
+    <station type="metro" code="27-02" name="PORTE DE VANVES" />
+    <station type="metro" code="27-07" name="MALAKOFF-PLATEAU DE VANVES" />
+    <station type="metro" code="27-08" name="MALAKOFF-RUE ETIENNE DOLET" />
+    <station type="metro" code="27-09" name="CHATILLON-MONTROUGE" />
+    <station type="metro" code="28-02" name="CORENTIN CELTON" />
+    <station type="metro" code="28-03" name="MAIRIE D'ISSY" />
+    <station type="metro" code="28-08" name="MARCEL SEMBAT" />
+    <station type="metro" code="28-09" name="BILLANCOURT" />
+    <station type="metro" code="28-10" name="PONT DE SEVRES" />
+    <station type="metro" code="29-00" name="GRANDE ARCHE DE LA DEFENSE c. RER" />
+    <station type="metro" code="29-04" name="BOULOGNE JEAN JAURES" />
+    <station type="metro" code="29-05" name="BOULOGNE PONT DE SAINT-CLOUD" />
+    <station type="metro" code="29-08" name="SABLONS (LES)" />
+    <station type="metro" code="29-09" name="PONT DE NEUILLY" />
+    <station type="metro" code="29-10" name="ESPLANADE DE LA DEFENSE" />
+    <station type="metro" code="29-11" name="G.ARCHE DE LA DEFENSE - entrée et sortie" />
+    <station type="metro" code="29-12" name="PORTE DE CHAMPERRET" />
+    <station type="metro" code="29-13" name="LOUISE MICHEL" />
+    <station type="metro" code="29-14" name="ANATOLE FRANCE" />
+    <station type="metro" code="29-15" name="PONT DE LEVALLOIS-BECON" />
+    <station type="metro" code="30-01" name="PORTE MAILLOT" />
+    <station type="metro" code="30-04" name="WAGRAM" />
+    <station type="metro" code="30-05" name="PEREIRE" />
+    <station type="metro" code="30-08" name="BROCHANT" />
+    <station type="metro" code="30-09" name="PORTE DE CLICHY" />
+    <station type="metro" code="30-12" name="GUY MOQUET" />
+    <station type="metro" code="30-13" name="PORTE DE SAINT-OUEN" />
+    <station type="metro" code="31-02" name="FUNICULAIRE (station inférieure)" />
+    <station type="metro" code="31-03" name="FUNICULAIRE (station supérieure)" />
+    <station type="metro" code="31-04" name="ANVERS" />
+    <station type="metro" code="31-05" name="ABBESSES" />
+    <station type="metro" code="31-06" name="PIGALLE" />
+    <station type="metro" code="31-07" name="BLANCHE" />
+    <station type="metro" code="31-08" name="TRINITE-D'ESTIENNE D'ORVES" />
+    <station type="metro" code="31-09" name="NOTRE-DAME-DE-LORETTE" />
+    <station type="metro" code="31-10" name="SAINT-GEORGES" />
+    <station type="metro" code="31-12" name="ROME" />
+    <station type="metro" code="31-13" name="PLACE DE CLICHY" />
+    <station type="metro" code="31-14" name="FOURCHE (LA)" />
+    <station type="train" code="01-00" name="Châtelet-Les Halles" />
+    <station type="train" code="01-01" name="Châtelet-Les Halles" />
+    <station type="train" code="01-07" name="Luxembourg" />
+    <station type="train" code="03-00" name="Saint-Michel Notre-Dame" />
+    <station type="train" code="06-00" name="Auber" />
+    <station type="train" code="06-06" name="Auber" />
+    <station type="train" code="14-04" name="Cité Universitaire" />
+    <station type="train" code="15-12" name="Port Royal" />
+    <station type="train" code="16-01" name="Nation" />
+    <station type="train" code="16-02" name="Fontenay-sous-Bois, Vincennes" />
+    <station type="train" code="16-03" name="Joinville-le-Pont, Nogent-sur-Marne" />
+    <station type="train" code="16-04" name="Saint-Maur Créteil" />
+    <station type="train" code="16-05" name="Le Parc de Saint-Maur" />
+    <station type="train" code="16-06" name="Champigny" />
+    <station type="train" code="16-07" name="La Varenne-Chennevières" />
+    <station type="train" code="16-08" name="Boissy-Saint-Léger, Sucy Bonneuil" />
+    <station type="train" code="17-01" name="Charles de Gaulle-Etoile" />
+    <station type="train" code="17-04" name="La Défense (Grande Arche)" />
+    <station type="train" code="17-05" name="Nanterre-Préfecture, Nanterre-Université" />
+    <station type="train" code="17-05" name="Nanterre-Ville" />
+    <station type="train" code="17-06" name="Rueil-Malmaison" />
+    <station type="train" code="17-08" name="Chatou-Croissy" />
+    <station type="train" code="17-09" name="Le Vésinet-Centre, Le Vésinet-Le Pecq, Saint-Germain-en-Laye" />
+    <station type="train" code="18-00" name="Denfert-Rochereau" />
+    <station type="train" code="18-01" name="Gentilly" />
+    <station type="train" code="18-02" name="Arcueil-Cachan, Laplace" />
+    <station type="train" code="18-03" name="Bagneux, Bourg-la-Reine" />
+    <station type="train" code="18-04" name="La Croix-de-Berny, Parc de Sceaux" />
+    <station type="train" code="18-05" name="Antony, Fontaine-Michalon, Les Baconnets" />
+    <station type="train" code="18-06" name="Massy-Palaiseau, Massy-Verrières" />
+    <station type="train" code="18-07" name="Palaiseau Villebon, Palaiseau" />
+    <station type="train" code="18-08" name="Lozère" />
+    <station type="train" code="18-09" name="Le Guichet, Orsay-Ville" />
+    <station type="train" code="18-10" name="Bures-sur-Yvette, Courcelle-sur-Yvette, Gif-sur-Yvette, La Hacquinière, Saint-Rémy-lès-Chevreuse" />
+    <station type="train" code="20-01" name="Gare de l'Est" />
+    <station type="train" code="20-04" name="Pantin" />
+    <station type="train" code="20-05" name="Noisy-le-Sec" />
+    <station type="train" code="20-06" name="Bondy" />
+    <station type="train" code="20-07" name="Gagny, Le Raincy Villemomble Montfermeil" />
+    <station type="train" code="20-09" name="Chelles Gournay, Le Chênay Gagny" />
+    <station type="train" code="20-10" name="Vaires Torcy" />
+    <station type="train" code="20-11" name="Lagny-Thorigny" />
+    <station type="train" code="20-13" name="Esbly" />
+    <station type="train" code="20-14" name="Meaux" />
+    <station type="train" code="20-15" name="Changis-Saint-Jean, Isles-Armentières Congis, Lizy-sur-Ourcq, Trilport" />
+    <station type="train" code="20-16" name="Crouy-sur-Ourcq, La Ferté-sous-Jouarre, Nanteuil Saacy" />
+    <station type="train" code="21-05" name="Rosny-Bois-Perrier, Rosny-sous-Bois, Val de Fontenay" />
+    <station type="train" code="21-06" name="Nogent Le-Perreux" />
+    <station type="train" code="21-07" name="Les Boullereaux Champigny" />
+    <station type="train" code="21-08" name="Villiers-sur-Marne Plessis-Trévise" />
+    <station type="train" code="21-09" name="Les Yvris Noisy-le-Grand" />
+    <station type="train" code="21-10" name="Emerainville Pontault-Combault, Roissy-en-Brie" />
+    <station type="train" code="21-11" name="Ozoir-la-Ferrière" />
+    <station type="train" code="21-12" name="Gretz-Armainvilliers, Tournan" />
+    <station type="train" code="21-15" name="Courquetaine, Faremoutiers Pommeuse, Guerard La-Celle-sur-Morin, Liverdy en Brie, Marles-en-Brie, Mormant, Mortcerf, Mouroux, Ozouer le voulgis, Verneuil-l'Etang, Villepatour - Presles, Yebles - Guignes, Yebles" />
+    <station type="train" code="21-16" name="Chailly Boissy-le-Châtel, Chauffry, Coulommiers, Jouy-sur-Morin Le-Marais, Nangis, Saint-Rémy-la-Vanne, Saint-Siméon" />
+    <station type="train" code="21-17" name="Champbenoist-Poigny, La Ferté-Gaucher, Longueville, Provins, Sainte-Colombe-Septveilles" />
+    <station type="train" code="21-18" name="Flamboin, Meilleray, Villiers St Georges" />
+    <station type="train" code="22-07" name="Allée de la Tour-Rendez-Vous, La Remise-à-Jorelle, Les Coquetiers, Les Pavillons-sous-Bois" />
+    <station type="train" code="22-08" name="Gargan" />
+    <station type="train" code="22-09" name="Freinville Sevran, L'Abbaye" />
+    <station type="train" code="23-13" name="Couilly Saint-Germain Quincy, Les Champs-Forts, Montry Condé" />
+    <station type="train" code="23-14" name="Crécy-en-Brie La Chapelle, Villiers-Montbarbin" />
+    <station type="train" code="26-05" name="Val de Fontenay" />
+    <station type="train" code="26-06" name="Bry-sur-Marne, Neuilly-Plaisance" />
+    <station type="train" code="26-07" name="Noisy-le-Grand (Mont d'Est)" />
+    <station type="train" code="26-08" name="Noisy-Champs" />
+    <station type="train" code="26-10" name="Lognes, Noisiel, Torcy" />
+    <station type="train" code="26-11" name="Bussy-Saint-Georges" />
+    <station type="train" code="26-12" name="Val d'europe" />
+    <station type="train" code="26-13" name="Marne-la-Vallée Chessy" />
+    <station type="train" code="28-04" name="Fontenay-aux-Roses, Robinson, Sceaux" />
+    <station type="train" code="30-01" name="Gare Saint-Lazare" />
+    <station type="train" code="30-03" name="Pont Cardinet" />
+    <station type="train" code="30-04" name="Asnières, Bécon-les-Bruyères, Clichy Levallois, Courbevoie, La Défense (Grande Arche)" />
+    <station type="train" code="30-05" name="Puteaux, Suresnes Mont-Valérien" />
+    <station type="train" code="30-07" name="Garches Marne-la-Coquette, Le Val d'Or, Saint-Cloud" />
+    <station type="train" code="30-08" name="Vaucresson" />
+    <station type="train" code="30-09" name="Bougival, La Celle-Saint-Cloud, Louveciennes, Marly-le-Roi" />
+    <station type="train" code="30-10" name="L'Etang-la-Ville, Saint-Nom-la-Bretêche Forêt de Marly" />
+    <station type="train" code="31-07" name="Chaville-Rive Droite, Sèvres Ville-d'Avray, Viroflay-Rive Droite" />
+    <station type="train" code="31-08" name="Montreuil, Versailles-Rive Droite" />
+    <station type="train" code="32-05" name="La Garenne-Colombes, Les Vallées, Nanterre-Université" />
+    <station type="train" code="32-07" name="Houilles Carrières-sur-Seine, Sartrouville" />
+    <station type="train" code="32-09" name="Maisons-Laffitte" />
+    <station type="train" code="32-10" name="Poissy" />
+    <station type="train" code="32-11" name="Villennes-sur-Seine" />
+    <station type="train" code="32-12" name="Les Clairières de Verneuil, Vernouillet Verneuil" />
+    <station type="train" code="32-13" name="Aubergenville-Elisabethville, Les Mureaux" />
+    <station type="train" code="32-14" name="Epône Mézières" />
+    <station type="train" code="32-16" name="Bonnières, Mantes-Station, Mantes-la-Jolie, Port-Villez, Rosny-sur-Seine" />
+    <station type="train" code="33-10" name="Achères-Grand-Cormier, Achères-Ville" />
+    <station type="train" code="33-11" name="Cergy-Préfecture, Neuville-Université" />
+    <station type="train" code="33-12" name="Cergy-Saint-Christophe, Cergy-le-Haut" />
+    <station type="train" code="35-04" name="Bois-Colombes" />
+    <station type="train" code="35-05" name="Colombes, Le Stade" />
+    <station type="train" code="35-06" name="Argenteuil, Argenteuil" />
+    <station type="train" code="35-08" name="Cormeilles-en-Parisis, Val d'Argenteuil, Val d'Argenteuil" />
+    <station type="train" code="35-09" name="Herblay, La Frette Montigny" />
+    <station type="train" code="35-10" name="Conflans-Fin d'Oise, Conflans-Sainte-Honorine" />
+    <station type="train" code="35-11" name="Andrésy, Chanteloup-lès-Vignes, Maurecourt" />
+    <station type="train" code="35-12" name="Triel-sur-Seine, Vaux-sur-Seine" />
+    <station type="train" code="35-13" name="Meulan Hadricourt, Thun-le-Paradis" />
+    <station type="train" code="35-14" name="Gargenville, Juziers" />
+    <station type="train" code="35-15" name="Issou Porcheville, Limay" />
+    <station type="train" code="35-16" name="Breval, Ménerville" />
+    <station type="train" code="40-01" name="Gare de Lyon" />
+    <station type="train" code="40-05" name="Le Vert de Maisons, Maisons-Alfort Alfortville" />
+    <station type="train" code="40-06" name="Villeneuve-Prairie" />
+    <station type="train" code="40-07" name="Villeneuve-Triage" />
+    <station type="train" code="40-08" name="Villeneuve-Saint-Georges" />
+    <station type="train" code="40-09" name="Juvisy, Vigneux-sur-Seine" />
+    <station type="train" code="40-10" name="Ris-Orangis, Viry-Châtillon" />
+    <station type="train" code="40-11" name="Evry Val de Seine, Grand-Bourg" />
+    <station type="train" code="40-12" name="Corbeil-Essonnes, Mennecy, Moulin-Galant" />
+    <station type="train" code="40-13" name="Ballancourt, Fontenay le Vicomte" />
+    <station type="train" code="40-14" name="La Ferté-Alais" />
+    <station type="train" code="40-16" name="Boutigny, Maisse" />
+    <station type="train" code="40-17" name="Boigneville, Buno-Gironville" />
+    <station type="train" code="41-00" name="Musée d'Orsay, Saint-Michel Notre-Dame" />
+    <station type="train" code="41-01" name="Gare d'Austerlitz" />
+    <station type="train" code="41-02" name="Bibliotheque-Francois Mitterrand" />
+    <station type="train" code="41-04" name="Ivry-sur-Seine, Vitry-sur-Seine" />
+    <station type="train" code="41-05" name="Choisy-le-Roi, Les Ardoines" />
+    <station type="train" code="41-07" name="Villeneuve-le-Roi" />
+    <station type="train" code="41-08" name="Ablon" />
+    <station type="train" code="41-09" name="Athis-Mons" />
+    <station type="train" code="42-09" name="Epinay-sur-Orge, Savigny-sur-Orge" />
+    <station type="train" code="42-10" name="Sainte-Geneviève-des-Bois" />
+    <station type="train" code="42-11" name="Saint-Michel-sur-Orge" />
+    <station type="train" code="42-12" name="Brétigny-sur-Orge, Marolles-en-Hurepoix" />
+    <station type="train" code="42-13" name="Bouray, Lardy" />
+    <station type="train" code="42-14" name="Chamarande, Etampes, Etréchy" />
+    <station type="train" code="42-16" name="Saint-Martin d'Etampes" />
+    <station type="train" code="42-17" name="Guillerval" />
+    <station type="train" code="43-09" name="Montgeron Crosne, Yerres" />
+    <station type="train" code="43-10" name="Brunoy" />
+    <station type="train" code="43-11" name="Boussy-Saint-Antoine, Combs-la-Ville Quincy" />
+    <station type="train" code="43-12" name="Lieusaint Moissy" />
+    <station type="train" code="43-13" name="Cesson, Savigny-le-Temple Nandy" />
+    <station type="train" code="43-15" name="Le Mée, Melun" />
+    <station type="train" code="43-16" name="Chartrettes, Fontaine-le-Port, Livry-sur-Seine" />
+    <station type="train" code="43-17" name="Champagne-sur-Seine, Héricy, La Grande Paroisse, Vernou-sur-Seine, Vulaines-sur-Seine Samoreau" />
+    <station type="train" code="44-12" name="Essonnes-Robinson, Villabé" />
+    <station type="train" code="44-13" name="Coudray-Montceaux, Le Plessis-Chenet-IBM, Saint-Fargeau" />
+    <station type="train" code="44-14" name="Boissise-le-Roi, Ponthierry Pringy" />
+    <station type="train" code="44-15" name="Vosves" />
+    <station type="train" code="44-16" name="Bois-le-Roi" />
+    <station type="train" code="44-17" name="Bagneaux-sur-Loing, Bourron-Marlotte Grez, Fontainebleau-Avon, Montereau, Montigny-sur-Loing, Moret Veneux-les-Sablons, Nemours Saint-Pierre, Saint-Mammés, Souppes, Thomery" />
+    <station type="train" code="45-10" name="Grigny-Centre" />
+    <station type="train" code="45-11" name="Evry Courcouronnes, Orangis Bois de l'Epine" />
+    <station type="train" code="45-12" name="Le Bras-de-Fer - Evry Génopole" />
+    <station type="train" code="50-00" name="Haussmann-Saint-Lazare" />
+    <station type="train" code="50-01" name="Gare du Nord, Magenta, Paris-Nord" />
+    <station type="train" code="50-05" name="Epinay-Villetaneuse, Saint-Denis, Sèvres-Rive Gauche" />
+    <station type="train" code="50-06" name="La Barre-Ormesson" />
+    <station type="train" code="50-07" name="Champ de Courses d'Enghien, Enghien-les-Bains" />
+    <station type="train" code="50-08" name="Ermont-Eaubonne, Ermont-Halte, Gros-Noyer Saint-Prix" />
+    <station type="train" code="50-09" name="Saint-Leu-La-Forêt, Taverny, Vaucelles" />
+    <station type="train" code="50-10" name="Bessancourt, Frépillon, Mery" />
+    <station type="train" code="50-11" name="Mériel, Valmondois" />
+    <station type="train" code="50-12" name="Bruyères-sur-Oise, Champagne-sur-Oise, L'Isle-Adam Parmain, Persan Beaumont" />
+    <station type="train" code="51-04" name="La Courneuve-Aubervilliers, La Plaine-Stade de France" />
+    <station type="train" code="51-05" name="Le Bourget" />
+    <station type="train" code="51-07" name="Blanc-Mesnil, Drancy" />
+    <station type="train" code="51-08" name="Aulnay-sous-Bois" />
+    <station type="train" code="51-09" name="Sevran Livry, Vert-Galant" />
+    <station type="train" code="51-10" name="Villeparisis" />
+    <station type="train" code="51-11" name="Compans, Mitry-Claye" />
+    <station type="train" code="51-12" name="Dammartin Juilly Saint-Mard, Thieux Nantouillet" />
+    <station type="train" code="52-05" name="Stade de France-Saint-Denis" />
+    <station type="train" code="52-06" name="Pierrefitte Stains" />
+    <station type="train" code="52-07" name="Garges-Sarcelles" />
+    <station type="train" code="52-08" name="Villiers-le-Bel (Gonesse - Arnouville)" />
+    <station type="train" code="52-10" name="Goussainville, Les Noues, Louvres" />
+    <station type="train" code="52-11" name="La Borne-Blanche, Survilliers-Fosses" />
+    <station type="train" code="53-06" name="Deuil Montmagny" />
+    <station type="train" code="53-07" name="Groslay" />
+    <station type="train" code="53-08" name="Sarcelles Saint-Brice" />
+    <station type="train" code="53-09" name="Domont, Ecouen Ezanville" />
+    <station type="train" code="53-10" name="Bouffemont Moisselles, Montsoult Maffliers" />
+    <station type="train" code="53-11" name="Belloy-Saint-Martin, Luzarches, Seugy, Viarmes, Villaines" />
+    <station type="train" code="54-08" name="Cernay" />
+    <station type="train" code="54-09" name="Franconville Plessis-Bouchard, Montigny-Beauchamp" />
+    <station type="train" code="54-10" name="Pierrelaye" />
+    <station type="train" code="54-11" name="Pontoise, Saint-Ouen-l'Aumone-Liesse" />
+    <station type="train" code="54-12" name="Boissy-l'Aillerie, Osny" />
+    <station type="train" code="54-15" name="Chars, Montgeroult Courcelles, Santeuil Le Perchay, Us" />
+    <station type="train" code="55-00" name="Avenue Foch, Avenue Henri-Martin, Boulainvilliers, Kennedy Radio-France, Neuilly-Porte Maillot (Palais des congrès)" />
+    <station type="train" code="55-01" name="Péreire-Levallois" />
+    <station type="train" code="55-02" name="Porte de Clichy" />
+    <station type="train" code="55-03" name="Saint-Ouen" />
+    <station type="train" code="55-04" name="Les Grésillons" />
+    <station type="train" code="55-05" name="Gennevilliers" />
+    <station type="train" code="55-06" name="Epinay-sur-Seine" />
+    <station type="train" code="55-07" name="Saint-Gratien" />
+    <station type="train" code="56-11" name="Auvers-sur-Oise, Chaponval, Epluches, Pont Petit" />
+    <station type="train" code="57-11" name="Presles Courcelles" />
+    <station type="train" code="57-12" name="Nointel Mours" />
+    <station type="train" code="60-01" name="Gare Montparnasse" />
+    <station type="train" code="60-04" name="Clamart, Vanves Malakoff" />
+    <station type="train" code="60-05" name="Bellevue, Bièvres, Meudon" />
+    <station type="train" code="60-06" name="Chaville-Rive Gauche, Chaville-Vélizy, Viroflay-Rive Gauche" />
+    <station type="train" code="60-07" name="Versailles-Chantiers" />
+    <station type="train" code="60-10" name="Saint-Cyr" />
+    <station type="train" code="60-11" name="Saint-Quentin-en-Yvelines - Montigny le Bretonneux, Trappes" />
+    <station type="train" code="60-12" name="Coignières, La Verrière" />
+    <station type="train" code="60-13" name="Les Essarts-le-Roi" />
+    <station type="train" code="60-14" name="Le Perray, Rambouillet" />
+    <station type="train" code="60-15" name="Gazeran" />
+    <station type="train" code="61-10" name="Fontenay-le-Fleury" />
+    <station type="train" code="61-11" name="Villepreux Les-Clayes" />
+    <station type="train" code="61-12" name="Plaisir Grignon, Plaisir Les-Clayes" />
+    <station type="train" code="61-13" name="Beynes, Mareil-sur-Mauldre, Maule, Nézel Aulnay" />
+    <station type="train" code="61-15" name="Garancières La-Queue, Montfort-l'Amaury Méré, Orgerus Behoust, Tacoignères Richebourg, Villiers Neauphle Pontchartrain" />
+    <station type="train" code="61-16" name="Houdan" />
+    <station type="train" code="63-07" name="Porchefontaine, Versailles-Rive Gauche" />
+    <station type="train" code="64-00" name="Invalides, Pont de l'alma" />
+    <station type="train" code="64-01" name="Champ de Mars-Tour Eiffel" />
+    <station type="train" code="64-02" name="Javel" />
+    <station type="train" code="64-03" name="Boulevard Victor - Pont du Garigliano, Issy-Val de Seine, Issy" />
+    <station type="train" code="64-05" name="Meudon-Val-Fleury" />
+    <station type="train" code="65-08" name="Jouy-en-Josas, Petit-Jouy-les-Loges" />
+    <station type="train" code="65-09" name="Vauboyen" />
+    <station type="train" code="65-10" name="Igny" />
+    <station type="train" code="65-11" name="Massy-Palaiseau" />
+    <station type="train" code="65-12" name="Longjumeau" />
+    <station type="train" code="65-13" name="Chilly-Mazarin" />
+    <station type="train" code="65-14" name="Gravigny-Balizy, Petit-Vaux" />
+    <station type="train" code="70-09" name="Parc des Expositions, Sevran-Beaudottes, Villepinte" />
+    <station type="train" code="70-10" name="Aéroport Charles de Gaulle" />
+    <station type="train" code="72-07" name="Sannois" />
+    <station type="train" code="73-11" name="Eragny Neuville, Saint-Ouen-l'Aumône (Eglise)" />
+    <station type="train" code="75-07" name="Les Saules, Orly-Ville" />
+    <station type="train" code="75-09" name="Pont de Rungis Aéroport d'Orly, Rungis-La Fraternelle" />
+    <station type="train" code="75-10" name="Chemin d'Antony" />
+    <station type="train" code="75-12" name="Massy-Verrières, Arpajon" />
+    <station type="train" code="76-12" name="Egly, La Norville Saint-Germain-lès-Arpajon" />
+    <station type="train" code="76-13" name="Breuillet Bruyères-le-Châtel, Breuillet-Village, Saint-Chéron" />
+    <station type="train" code="76-14" name="Sermaise" />
+    <station type="train" code="76-15" name="Dourdan, Dourdan-la-Forêt" />
+</stations>

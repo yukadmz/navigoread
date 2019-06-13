@@ -1,0 +1,18 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_verbose_mode">Activer le mode détail</string>
+    <string name="pref_description_verbose_mode">Active le mode détail pour exportation
+    </string>
+    <string name="pref_title_online_mode">Activer mode connecté (non implémenté)</string>
+    <string name="pref_description_online_mode">Rechercher les logo des lignes RATP via API ouvert (non implémenté pour le moment)
+    </string>
+    <string name="pref_title_dumps_location">Dossier des exportations</string>
+    <string name="pref_description_dumps_location">Dossier des exportations
+    </string>
+</resources>

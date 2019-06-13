@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigoRead</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_dump">Exporter</string>
+</resources>
