@@ -559,4 +559,6 @@
     <station type="train" code="76-13" name="Breuillet Bruyères-le-Châtel, Breuillet-Village, Saint-Chéron" />
     <station type="train" code="76-14" name="Sermaise" />
     <station type="train" code="76-15" name="Dourdan, Dourdan-la-Forêt" />
+    <station type="bus" code="65-60" name="Eglise de Rosny-sous-Bois" />
+    <station type="bus" code="33212" name="Bois-Perrier RER - Rosny 2" />
 </stations>

@@ -213,9 +213,9 @@ public class Navigo {
             if (lines != null && stations != null && dates != null && times != null) {
                 for (int i = 1; i <= dates.getNumber_of_files(); ++i) {
                     CustomListAdapter.Element elt = new CustomListAdapter.Element(stations.getInterpretedValue(i),
-                                                        "Le " + dates.getInterpretedValue(i) + " à " +
-                                                        times.getInterpretedValue(i),
-                                                        lines.getInterpretedValue(i));
+                            "Le " + dates.getInterpretedValue(i) + " à " +
+                                    times.getInterpretedValue(i),
+                            lines.getInterpretedValue(i));
                     res.add(elt);
                 }
             }
@@ -532,12 +532,12 @@ public class Navigo {
                 break;
             case RECORD_EF:
                 byte[] args = {APDU.ins.SELECT_FILE_PARAM.getValue(), /// PARAM1
-                                0x00, /// PARAM2 is 0
-                                (byte) (n.getAddress().length + addr.length), // ADDR LENGTH
-                                addr[0], // DF ADDR
-                                addr[1],
-                                n.getAddress()[0], // RECORD ADDR
-                                n.getAddress()[1]
+                        0x00, /// PARAM2 is 0
+                        (byte) (n.getAddress().length + addr.length), // ADDR LENGTH
+                        addr[0], // DF ADDR
+                        addr[1],
+                        n.getAddress()[0], // RECORD ADDR
+                        n.getAddress()[1]
                 };
                 // Send select EF
                 byte[] result = sendAPDU(APDU.ins.SELECT_FILE.getValue(), args);

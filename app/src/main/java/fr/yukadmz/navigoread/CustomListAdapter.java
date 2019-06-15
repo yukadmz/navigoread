@@ -79,7 +79,7 @@ public class CustomListAdapter extends ArrayAdapter<String> {
     public void add(String title, String content, String line) {
         int id = -1;
         if (line != null && line.equals("")) {
-            id = context.getResources().getIdentifier("unknown", "drawable", context.getPackageName());
+            id = context.getResources().getIdentifier("navigo", "drawable", context.getPackageName());
         } else if (line != null && line.length() > 0) {
             id = context.getResources().getIdentifier(line.toLowerCase().replace(" ", "_"), "drawable", context.getPackageName());
         }
