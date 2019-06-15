@@ -115,17 +115,16 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void updateCustomList() {
-        listAdapter.add_header("Informations sur la carte");
+        listAdapter.add_header("CARTE NAVIGO");
         listAdapter.add("UID", card.getId());
-        listAdapter.add_header("Evenements");
-        for (CustomListAdapter.Element e: card.getEvents()) {
-            listAdapter.add(e);
-        }
-        listAdapter.add_header("Contrats");
         for (CustomListAdapter.Element e: card.getContracts()) {
             listAdapter.add(e);
         }
-        listAdapter.add_header("Evenements spéciaux");
+        listAdapter.add_header("DERNIERS PASSAGES");
+        for (CustomListAdapter.Element e: card.getEvents()) {
+            listAdapter.add(e);
+        }
+        listAdapter.add_header("AUTRES INFORMATIONS");
         for (CustomListAdapter.Element e: card.getSpecialEvents()) {
             listAdapter.add(e);
         }
@@ -349,4 +348,5 @@ public class MainActivity extends ActionBarActivity {
             }
         }
     }
+
 }
