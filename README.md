@@ -1,5 +1,6 @@
-# Navigoat
+# NavigoREAD
 
+**This app is a fork of https://github.com/sp1d3rb0y/Navigoat**
 ## Description
 
 Android PoC for reading the new french transportation card "Navigo" with any Android equiped with a NFC reader.
